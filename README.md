@@ -19,4 +19,4 @@ Streamlit-powered YouTube video downloader: Simple, effective, user-friendly Str
 git clone https://github.com/SarthakSR/Streamlit-Youtube-VideoDownloader.git
 cd YT-Downloader
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
